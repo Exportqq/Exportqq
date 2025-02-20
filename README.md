@@ -1,3 +1,3 @@
 <div>
-    <img src='/export.png'>
+    <img src='/profile.png'>
 </div>
