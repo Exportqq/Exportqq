@@ -1,16 +1,24 @@
-## Hi there 👋
+<div class='backround'>
+    <p class='backround-txt'>No drug dealer fren, maybe I'm a programmer</p>
+</div>
 
-<!--
-**Exportqq/Exportqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+* {
+    margin: 0px;
+    padding: 0px;
+}    
 
-Here are some ideas to get you started:
+.backround {
+    backround-img: url(img/68207ef057ca2ec9a29c3e69b4d28296.png)
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.backround-txt {
+    color: rgb(255, 255, 255);
+    font-family: 'Bebas Neue';
+    font-size: 122px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+</style>
