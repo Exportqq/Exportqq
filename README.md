@@ -1,5 +1,8 @@
 <div>
     <img src='/Group.png'>
-    <video src="/48813817b031b08cf9f1fecb3b6155f3.gif" >
+    <video controls>
+    <source src="https://pin.it/4XAeIO2Oc" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 </div>
