@@ -1,4 +1,5 @@
-<div style="background-image: url(back.png);">
+<div style="background-image: url(back.png); width: 140px;
+    height:100px;">
     <p style="color: rgb(255, 255, 255);
             font-family: 'Bebas Neue';
             font-size: 122px;
