@@ -1,3 +1,3 @@
 <div>
-    <img src='/back.png'>
+    <img src='/Group.png'>
 </div>
