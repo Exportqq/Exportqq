@@ -9,7 +9,7 @@
 }    
 
 .backround {
-    backround-img: url(img/68207ef057ca2ec9a29c3e69b4d28296.png)
+    backround-img: url(/back.png)
 }
 
 .backround-txt {
